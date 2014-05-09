@@ -7,10 +7,8 @@ body {
 }
 
 h1 {
-  margin: 0 0 20px;
+  margin: 0 auto;
   font-size: 13em;
   font-weight: 400;
-  display: table-cell;
-  vertical-align: middle;
   text-align: center;
 }
