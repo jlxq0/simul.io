@@ -1,15 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-
 body {
-  padding:50px;
-  font:14px/1.5 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color:#F7F7F7;
-  background-color:#0088DF;
-  font-weight:300;
+  padding: 50px;
+  font: 14px/1.5 'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #F7F7F7;
+  background-color: #0088DF;
+  font-weight: 300;
 }
 
 h1 {
-  margin:0 0 20px;
-  font-size: 10em;
-  font-weight:400;
+  margin: 0 0 20px;
+  font-size: 13em;
+  font-weight: 400;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
