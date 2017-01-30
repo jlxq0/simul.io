@@ -1,0 +1,8 @@
+title: simul.io
+description: 
+google_analytics: UA-50843835-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
